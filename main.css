@@ -159,6 +159,6 @@ nav > ul > li > ul > li {
     display:block;
 }
 
-#button_myself > p {
+#button_myself > p > a{
     color:black;
 }
